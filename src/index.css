@@ -1,0 +1,64 @@
+.navbar {
+  background-color: transparent;
+  border: none;
+}
+
+.navbar a {
+  color: white !important;
+}
+
+.sep {
+  margin: 10px 0px;
+  height: 5px;
+  background-color: white;
+  width: 60px;
+  margin: auto;
+}
+
+.fa-custom-header {
+  font-size: 20px;
+  margin-top: -80px;
+}
+
+.header {
+  margin-top: -100px;
+  padding: 150px 0px;
+  text-align: center;
+  background: url('https://blackrockdigital.github.io/startbootstrap-clean-blog/img/home-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+
+footer {
+  margin-top: 50px;
+  border-top: solid 2px grey;
+  font-size: 14px;
+}
+
+.fa-stack-twitter {
+  color: white;
+}
+
+.footer-inner {
+  margin-top: 40px;
+  max-width: 240px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.fa-custom {
+  font-size: 26px;
+}
+
+.copyright-text {
+  color: grey;
+  margin-top: 20px;
+}
+
+.article {
+  padding: 50px 0px;
+  border-bottom: solid 2px grey;
+}
